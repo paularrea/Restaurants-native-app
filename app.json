@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "restaurants-native-app",
+    "name": "Restaurants native app",
     "slug": "restaurants-native-app",
     "platforms": [
       "ios",
@@ -23,6 +23,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/paularrea"
   }
 }
