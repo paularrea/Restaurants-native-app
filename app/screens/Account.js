@@ -4,7 +4,7 @@ import {View, Text} from 'react-native'
 export default Account = () => {
 return(
     <View>
-        <Text>Account</Text>
+        <Text>My account</Text>
     </View>
 )
 }
