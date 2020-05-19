@@ -1,10 +1,10 @@
-import React from 'react';
-import {View, Text} from 'react-native'
+import React from "react";
+import { View, Text } from "react-native";
 
 export default Restaurants = () => {
-return(
+  return (
     <View>
-        <Text>Restaurants</Text>
+      <Text>Restaurants</Text>
     </View>
-)
-}
+  );
+};
