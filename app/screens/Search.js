@@ -1,7 +1,7 @@
 import React from 'react';
 import {View, Text} from 'react-native'
 
-export default Search = () => {
+export default function Search () {
 return(
     <View>
         <Text>Search</Text>
